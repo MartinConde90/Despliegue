@@ -1,0 +1,37 @@
+tomcat é -> un contenedor de app java
+un CMS -> todas correctas
+cales son os portos no que traballan http e https respectivamente?-> 80 e 443
+que é unha app web?-> unha app informatica acesibles a traves dunha interface web
+de forma genérica para probar si funciona nuestro servidor apache debemos escribir "http://localhost/" en la barra de direcciones del navegador
+nun modelo ampliado cliente-servidor de tres capas, la logica da interface grafica situase na capa de....-> presentacion
+¿Cual de las siguientes es una tecnologia que podremos emplear en el lado del cliente y en lado del servidor?-> javascript
+no modelo de tras capadas non existe comunicacion directa entre-> capa de datos y capa de presentacion
+si consideramos los componentes de la arquitectura web, podemos afirmar que Tomcat está encuadrado en-> servidor de app web
+¿cual de las siguientes tecnologias se popularizó en la web 2.0?-> JSON
+Cal da seguintes é unha aplicacion web?-> Gmail
+procurando a diferencia en App Web e sitio web, cal dos sguintes puntos non é un elemento de diferenciacion-> despregamento
+cal é e o protocolo baixo o cal se intercambian contidos na www? -> http y https
+a que hace referencia la siguiente imagen?-> a frameworks para desenvolver web apps
+cal das seguientes es una desvantaxe das app web-> a interface está limitada as opcions que nos brindan....
+se se emprega CGI as peticions web respontanse-> empregando un executable no servidor web
+o modelo cliente servidor NON se pode implementar nun so equipo-> falso, xa que as funcions destinadas aos equipos poden ser realizadas por programas/servizos
+o resultado da execucion do codigo nun servidor web, e unha paxina web que-> pode ser exactamente igual a unha pagina web estática
+cales son as paxinas web que se introduciron na WWW inicialmente nos anos 90?-> estáticas
+cal dos seguintes NON é un CMS-> PHP
+¿Cual de las versiones web siguientes no existe de facto? -> 2.5
+No modelo cliente-servidor, a comunicacion e iniciada por -> Cliente
+Atendendo a seguinte imaxe, de que pode tratar?-> todas son certas
+arquitectura web e sun modelos de 3 capas que son-> base datos, servidor app web, clientes de servicio web
+elixe a resposta correcta con respecto a internet-> arpanet
+¿Cuales de los siguientes no es un factor de evolucion de los servicios web?-> menor riesgo de ataque en las comunicaciones
+un sitio web es-> é unha coleccion de paxoinas web que se adoitan agrupar baixo un mesmo dominio e tematica(habitualmente)
+no modelo de programaicon con 3 capas, temos-> todas son certas
+un http request-> es un mensaje de peticion get,post,put
+¿Cal dos seguintes NON é un estandar que dice a W3C?-> CGI
+Nas respostas http, que codigo representaria un erro de servidor?-> 503
+¿Cual de los siguientes es un servidor de app de pago para Java?-> JBoss
+La plataforma LAMP emplea como servidor web-> Apache
+Con las aplicaciones web-> Todas son ciertas
+¿Cal é a parte dun CMS que visualiza un usuario de forma pública?-> Frontend
+Un servidor de aplicaciones-> proporciona una serie de servicios de forma integrada para que los clientes accedan a las app y manipulan
+O protocolo HTTP, dentro da pila de protocolos, estaría no novel de-> Aplicación.
