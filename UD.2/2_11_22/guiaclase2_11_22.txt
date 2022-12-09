@@ -1,5 +1,5 @@
 Construir sitio SSL desde cero
 	crear un certificado autoasinado
 Asociar cartafol seguridad
-.htacces
+.htaccess
 error types-> 404,500,403
